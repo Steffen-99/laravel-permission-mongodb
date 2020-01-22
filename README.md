@@ -69,7 +69,7 @@ This package can be used in Laravel 5.2 and up.
 You can install the package via composer:
 
 ``` bash
-composer require mostafamaklad/laravel-permission-mongodb
+composer require steffen-99/laravel-permission-mongodb
 ```
 
 In Laravel 5.5 the service provider will automatically get registered. In older versions of the framework just add the service provider in `config/app.php` file:
